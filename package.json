@@ -1,0 +1,25 @@
+{
+  "name": "a.r.t",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gptTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmenikeIsGreat/A.R.T.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmenikeIsGreat/A.R.T/issues"
+  },
+  "homepage": "https://github.com/EmenikeIsGreat/A.R.T#readme",
+  "dependencies": {
+    "chatgpt": "^3.4.1",
+    "puppeteer": "^19.5.2"
+  },
+  "type":"module"
+}
